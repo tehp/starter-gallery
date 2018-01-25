@@ -23,4 +23,26 @@ Release Date: Jan 25, 2018
     -   Gallery.php
 ## Updated Components
 -   controllers
-    -Welcome.php
+    -   Welcome.php
+
+## *Version 0.2*
+
+Release Date: Jan 25, 2018
+
+## New Components
+
+-   None
+
+## Updated Components
+-   controllers
+    -   Welcome.php
+    -   About.php
+    -   Galley.php
+
+-   core
+    -   MY_Controller.php
+
+-   views
+    - about.php
+    - welcome.php
+    - gallery.php

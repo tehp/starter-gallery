@@ -4,7 +4,7 @@ Team membership:  MC (Captain) & AV (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 0.1*
 
 Release Date: Jan 25, 2018
 
@@ -13,5 +13,14 @@ Release Date: Jan 25, 2018
 -   misc
 
     -   changelog.md
-    
+
+-   views
+    -   about.php
+    -   gallery.php
+
+-   controllers
+    -   About.php
+    -   Gallery.php
 ## Updated Components
+-   controllers
+    -Welcome.php
